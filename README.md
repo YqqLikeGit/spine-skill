@@ -38,7 +38,7 @@ cheered on, "great question!" instead of "that question contains your bug".
 ```bash
 mkdir -p ~/.claude/skills/spine
 curl -o ~/.claude/skills/spine/SKILL.md \
-  https://raw.githubusercontent.com/OWNER/spine-skill/main/SKILL.md
+  https://raw.githubusercontent.com/YqqLikeGit/spine-skill/main/SKILL.md
 ```
 
 **Cursor:** paste the body of `SKILL.md` into `.cursorrules` (or Settings → Rules).
